@@ -9,7 +9,7 @@ let Calc = function() {
         }
         else {
             alert('Хорошо. Значит сегодня считать больше не будем. Калькулятор отключается...');
-            return;
+            return alert('Прячем калькулятор');
         }
     }
     this.getexpforcalc = function() {
