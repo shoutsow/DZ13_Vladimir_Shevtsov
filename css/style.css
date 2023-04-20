@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.pz {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: blue;
+	text-align: center;
+}
+
+.rs {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: red;
+}
